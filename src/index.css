@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 30px;
+}
+.header {
+  height: 100px;
+  background-color: mediumaquamarine;
+}
+.content {
+  display: flex;
+}
+.menu {
+  width: 300px;
+  background-color: mediumslateblue;
+  display: flex;
+  flex-direction: column;
+}
